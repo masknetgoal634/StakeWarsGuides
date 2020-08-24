@@ -21,6 +21,14 @@ In PagerDuty user settings, you can decide how you’d like to be notified: emai
 
 ![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_profile.png)
 
+By default international phone alerts not allowed you need to click on "request" hyperlink to request permission for such calls/sms.
+
+![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_click_request.png)
+
+![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_under_review.png)
+
+In a few hours you should be able to access international phone alerts.
+
 ## Grafana
 
 ### Add a notification channel
@@ -37,3 +45,6 @@ Navigate to the panel you want to add or edit an alert rule for, click the title
 
 
 ![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_alert_rule.png)
+
+You can test the rule or test from the PagerDuty notification channel and you will receive an email, sms and phone call from PagerDuty.
+
