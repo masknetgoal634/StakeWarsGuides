@@ -54,7 +54,7 @@ Email:
 ![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_pagerduty_email.png)
 
 SMS:
-![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_sms.jpg)
+<img src="img/monitor_uptime_sms.jpg"  width="400" height="240">
 
 Phone Call:
-<img src="img/monitor_uptime_phonecall.jpg"  width="480" height="800">
+<img src="img/monitor_uptime_phonecall.jpg"  width="240" height="400">
