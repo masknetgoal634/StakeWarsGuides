@@ -57,4 +57,4 @@ SMS:
 ![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_sms.jpg)
 
 Phone Call:
-<img src="img/monitor_uptime_phonecall.jpg"  width="480" height="986">
+<img src="img/monitor_uptime_phonecall.jpg"  width="480" height="850">
