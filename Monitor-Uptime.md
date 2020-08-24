@@ -9,8 +9,6 @@ PagerDuty is one of the most well-known incident response platforms for IT depar
 
 Add a new service:
 
-![](https://raw.githubusercontent.com/masknetgoal634/near-prometheus-exporter/master/guide/img/image0.png)
-
 ![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_new_service.png)
 
 Choose Prometheus from the Integration types list and give the service a name – type a name for example "Grafana". (You can also customize the incident settings, but I went with the default setup.) Then click save.
