@@ -60,4 +60,4 @@ SMS:
 
 Phone Call:
 
-<img src="img/monitor_uptime_phonecall.jpg"  width="240" height="400">
+<img src="img/monitor_uptime_phonecall.jpg"  width="480" height="800">
