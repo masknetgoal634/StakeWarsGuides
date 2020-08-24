@@ -1,4 +1,4 @@
-<img src="https://vitalpoint.ai/wp-content/uploads/2020/06/near_logo-1.png"  width="256" height="67">
+<img src="https://vitalpoint.ai/wp-content/uploads/2020/06/near_logo-1.png"  width="128" height="33">
 
 # How to Set up PagerDuty Alerts in Grafana
 
