@@ -25,9 +25,11 @@ By default international phone alerts not allowed you need to click on "request"
 
 ![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_click_request.png)
 
+In a few hours you should be able to access international phone alerts.
+
 ![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_under_review.png)
 
-In a few hours you should be able to access international phone alerts.
+
 
 ## Grafana
 
