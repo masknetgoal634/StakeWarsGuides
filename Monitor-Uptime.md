@@ -23,10 +23,17 @@ In PagerDuty user settings, you can decide how you’d like to be notified: emai
 
 ## Grafana
 
-Add a notification channel. In the Grafana side bar, hover your cursor over the Alerting (bell) icon and then click Notification channels, click "Add channel" type channel name and choose "PagerDuty".
+### Add a notification channel
+
+In the Grafana side bar, hover your cursor over the Alerting (bell) icon and then click Notification channels, click "Add channel" type channel name and choose "PagerDuty".
 
 ![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_new_channel.png)
 
 Insert the integration key for the PagerDuty service you have created.
 
+### Add or edit an alert rule
 
+Navigate to the panel you want to add or edit an alert rule for, click the title, and then click Edit. On the Alert tab, click Create Alert. If an alert already exists for this panel, then you can just edit the fields on the Alert tab. Finally add PagerDuty notification channel that we just have created.
+
+
+![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_alert_rule.png)
