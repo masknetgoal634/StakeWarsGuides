@@ -50,12 +50,11 @@ Navigate to the panel you want to add or edit an alert rule for, click the title
 
 You can test the rule or test from the PagerDuty notification channel and you will receive an email, sms and phone call from PagerDuty.
 
-Email
+Email:
 ![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_pagerduty_email.png)
 
-SMS
+SMS:
 ![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_sms.jpg)
 
-Phone Call
-![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_phonecall.jpg)
-
+Phone Call:
+<img src="img/monitor_uptime_phonecall.jpg"  width="480" height="986">
