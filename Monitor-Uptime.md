@@ -1,4 +1,4 @@
-<img src="https://vitalpoint.ai/wp-content/uploads/2020/06/near_logo-1.png"  width="135" height="513">
+<img src="https://vitalpoint.ai/wp-content/uploads/2020/06/near_logo-1.png"  width="513" height="135">
 # How to Set up PagerDuty Alerts in Grafana
 
 In my previous guide [“Monitoring NEAR Node with Prometheus and Grafana”](https://github.com/masknetgoal634/near-prometheus-exporter/blob/master/guide/GUIDE.md), I showed how to set up Prometheus and Grafana and how to send email notifications (Gmail). In this guide, I’d like to share how to set up alert notifications for PagerDuty in Grafana.
