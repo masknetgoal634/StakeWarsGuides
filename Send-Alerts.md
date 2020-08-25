@@ -49,7 +49,7 @@ Pick the alert interval, which is how long a Droplet must exceed the threshold b
 
 Enter the name of the Droplet to monitor in the Select Dropets or Tags text box.
 
-![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/send_alerts_select_droplet.png)
+![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/send_alerts_select_droplets.png)
 
 ### Select the Alert Notification Method
 
