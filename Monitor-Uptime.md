@@ -1,3 +1,6 @@
+<img src="https://vitalpoint.ai/wp-content/uploads/2020/06/near_logo-1.png"  width="128" height="33">
+
+---
 
 # How to Set up PagerDuty Alerts in Grafana
 
@@ -25,9 +28,11 @@ By default international phone alerts not allowed you need to click on "request"
 
 ![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_click_request.png)
 
+In a few hours you should be able to access international phone alerts.
+
 ![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_under_review.png)
 
-In a few hours you should be able to access international phone alerts.
+
 
 ## Grafana
 
@@ -48,12 +53,14 @@ Navigate to the panel you want to add or edit an alert rule for, click the title
 
 You can test the rule or test from the PagerDuty notification channel and you will receive an email, sms and phone call from PagerDuty.
 
+Email:
 
 ![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_pagerduty_email.png)
 
+SMS:
 
-![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_sms.png)
+![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_sms.jpg)
 
+Phone Call:
 
-![](https://raw.githubusercontent.com/masknetgoal634/StakeWarsGuides/master/img/monitor_uptime_phonecall.png)
-
+<img src="img/monitor_uptime_phonecall.jpg"  width="480" height="800">
